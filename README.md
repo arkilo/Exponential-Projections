@@ -1,13 +1,10 @@
 # Exponential Library
 
-Your very own offline-first open-source data-center! Includes over 50 services!
-
-## Beta Software Warning
-
-## Summary
+A library used for analyzing data which has an underlying exponential nature, whether growth or decay. I am developing this library and I still have to document the API but if you look at the code then you should be able to use the library.
 
 
 ## Goals
+
 
 
 ## Features
