@@ -1,4 +1,5 @@
 # Exponential Library
+[](https://gitlab.com/faisal.a/exponential-library/-/tree/master/files/Output_image.png)
 
 A library used for analyzing data which has an underlying exponential nature, whether growth or decay. I am developing this library and I still have to document the API but if you look at the code then you should be able to use the library.
 It assumes that the input list is a geometric sequence.
