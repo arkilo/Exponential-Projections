@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 import numpy as np
 
-
+`
 class exponential():
     def __init__(self,list_object):
         self.list_object = list_object
@@ -57,3 +57,8 @@ class exponential():
 list = [6,7,16,19,20,21,28,31,53,187,241,302,461,495,646,784,887,1022,1179,1375,1495,1571]
 my_list = exponential(list)
 my_list.create_graph(3,1,50)
+
+
+my_object = exponential()  	#creating the object for the class
+my_object(list)		#feeding the list to the object -> input
+my_object.create_graph(3,1,50) #call the method that you want
